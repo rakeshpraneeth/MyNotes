@@ -27,10 +27,10 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising my Service, the time and date
     of your use of the Service, and other statistics.</p>
-    <p>For more information on the privacy practices of Crashlytics, please visit : <a href="https://try.crashlytics.com/terms/privacy-policy.pdf">Crashlytics privacy policy</a></p>
+    <p>For more information on the privacy practices of Crashlytics, please visit : <a href="https://fabric.io/privacy">Crashlytics(Fabric)</a></p>
 
 <p><strong>Advertising Partner</strong></p>
-<p>I work with AdMob service provided by Google who may use the collected data to contextualize and personalize the ads of its own advertising network. , please visit : <a href="https://policies.google.com/privacy?hl=en">Google privacy policy(AdMob)</a></p>
+<p>I work with AdMob service provided by Google who may use the collected data to contextualize and personalize the ads of its own advertising network. , please visit : <a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob &amp; AdSense policies</a></p>
 
 <h2>Use of Data</h2>
     
